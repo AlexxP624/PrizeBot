@@ -1,4 +1,4 @@
-# Politique de Confidentialité pour PrizeBot Discord
+# Politique de Confidentialité pour PrizeBot
 
 **Date : 11/07/24**
 
