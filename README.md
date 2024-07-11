@@ -13,8 +13,8 @@ Bienvenue dans la politique de confidentialité de notre bot Discord PrizeBot. L
 Notre bot peut collecter les types d'informations suivants :
 
 - **Informations sur l'utilisateur** : noms d'utilisateur, identifiants Discord, avatars, rôles, et toute autre information publique sur votre profil Discord.
-- **Contenu des messages** : contenu des messages envoyés au bot ou dans des canaux où le bot est présent.
-- **Données d'utilisation** : informations sur la manière dont les utilisateurs interagissent avec le bot, y compris les commandes utilisées et les interactions avec d'autres fonctionnalités du bot.
+- **Contenu des messages** : contenu des messages envoyés dans des canaux où le bot est présent.
+- **Données d'utilisation** : informations sur la manière dont les utilisateurs interagissent avec le bot, c'est à dire les commandes utilisées.
 
 ## 3. Utilisation des Informations
 
